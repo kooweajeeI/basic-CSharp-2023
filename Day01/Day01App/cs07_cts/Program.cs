@@ -17,6 +17,11 @@ namespace cs07_cts
             Console.WriteLine(a);
             Console.WriteLine(b.GetType());
             Console.WriteLine(b);
+
+            System.String d = "abcdef";     // CTS
+            string e = "abcdef";
+            Console.WriteLine(d.GetType()); 
+            Console.WriteLine(e.GetType());
         }
     }
 }
