@@ -25,3 +25,6 @@
 	
 - Win App
 	- Winforms 컨트롤
+	
+3일차 윈폼 학습결과
+<img src = "https://raw.githubusercontent.com/kooweajeeI/basic-CSharp-2023/main/images/winforms01.PNG" width="700">
