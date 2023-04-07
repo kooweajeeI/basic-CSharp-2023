@@ -16,15 +16,34 @@
 		- 제어
 	
 - Win App
-	- Winforms vs WPF
-	- Winforms 기초
+	- WinForms vs WPF
+	- WinForms 기초
 		
 ## 3일차
 - C# 기본
 	- 클래스
 	
 - Win App
-	- Winforms 컨트롤
+	- WinForms 컨트롤
+	- ListView, DataGrid
 	
 3일차 윈폼 학습결과
 <img src = "https://raw.githubusercontent.com/kooweajeeI/basic-CSharp-2023/main/images/winforms01.PNG" width="700">
+
+## 4일차
+- C# 기본
+	- 클래스 상속
+	- 인터페이스
+	
+- Win App
+	- WinForms 컨트롤 마무리
+	- WinForms 파일복사 앱
+	- 로그인앱 실습
+	
+## 5일차
+- C# 기본
+	- 
+	
+- Win App
+	- WinForms 디자인 오류 시 해결방법
+	- Windows 탐색기 만들기
