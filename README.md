@@ -52,3 +52,22 @@
 	
 5일차 윈도우 탐색기 만들기
 <img src = "https://raw.githubusercontent.com/kooweajeeI/basic-CSharp-2023/main/images/winforms02.PNG" width="700">
+
+## 6일차
+- C# 기본
+	- 컬렉션
+	- 일반화 프로그래밍
+	- 예외처리
+	
+- Win App
+	- 탐색기 마무리
+		- 컨텍스트 메뉴(마우스 오른쪽 메뉴)
+		- 보호된 운영체제 폴더 숨기기
+		- 리스트뷰 폴더 더블클릭 시 하위폴더로
+	- DB 핸들링
+
+6일차 윈도우 탐색기 만들기 (완료)
+<img src = "https://raw.githubusercontent.com/kooweajeeI/basic-CSharp-2023/main/images/winforms03.PNG" width="700">	
+## 7일차
+	- BookRentalShop DB 사용 WinForms 앱개발
+	- 실습 예제
