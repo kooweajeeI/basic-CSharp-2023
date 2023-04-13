@@ -69,5 +69,29 @@
 6일차 윈도우 탐색기 만들기 (완료)
 <img src = "https://raw.githubusercontent.com/kooweajeeI/basic-CSharp-2023/main/images/winforms03.PNG" width="700">	
 ## 7일차
+- C# 기본
+	- 대리자, 이벤트
+	- 람다식
+	- 애트리뷰트
+	
+- Win App
+	- DB핸들링
+	- SDI vs MDI
+	
+## 8일차
+- C# 기본
+	- 파일핸들링
+	- 스레드 / 태스크
+	- 가비지 컬렉션
+	
+- Win App
+	- 메모장 만들기
+	- BookRentalShop DB 사용 WinForms 앱개발
+
+심플메모장
+<img src = "https://raw.githubusercontent.com/kooweajeeI/basic-CSharp-2023/main/images/winforms04.PNG" width="700">	
+	
+	
+## 9일차	
 	- BookRentalShop DB 사용 WinForms 앱개발
 	- 실습 예제
