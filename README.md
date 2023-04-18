@@ -104,5 +104,5 @@
 ## 10일차
 - Win App
 	- BookRentalShop DB 사용 WinForms 앱개발
-	
+	<img src = "https://raw.githubusercontent.com/kooweajeeI/basic-CSharp-2023/main/images/winforms05.PNG" width="700">	
 - 코딩테스트
